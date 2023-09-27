@@ -144,7 +144,7 @@ img{
 
 .button:hover{
     background-color: var(--title-color-dark);
-
+    transition: 0.3s
 }
 
 .button_icon{

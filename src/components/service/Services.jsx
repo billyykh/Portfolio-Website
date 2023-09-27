@@ -9,8 +9,8 @@ export default function Services() {
         setToggle(index);
     }
 
-    let techskills = ['React.js','HTML','CSS, Tailwind','JavaScript','Node.js, Express.js','Mongoose, MongoDB','C, C++','Figma','Adobe XD']
-    let softsills = ['Communication','Problem Solving','UI/UX Design','Team coordination','Trouble-shooting','Agile Workflow','Responsive Web Design','Project management']
+    let techskills = ['React.js, Next.js','HTML','CSS, Tailwind','JavaScript','Node.js, Express.js','Mongoose, MongoDB, Prisma','C, C++','Figma']
+    let softsills = ['Communication','Problem Solving','UI/UX Design','Team coordination','Trouble-shooting','Agile Workflow','Responsive Web Design','Project management','CI/CD']
     let languages = ['English','Cantonese','Mandarin','Japanese']
 
   return (
